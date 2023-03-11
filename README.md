@@ -1,2 +1,2 @@
 # testpages
-Test Githib as Wiki and document web site
+Test Github as Wiki and document web site
